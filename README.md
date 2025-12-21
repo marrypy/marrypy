@@ -1,6 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <h1 align="center">Hi, I'm Marry</h1>
 <h3 align="center">A software developer & Yale University CS student from Metro Detroit</h3>
 
+![Profile views](https://komarev.com/ghpvc/?username=marrypy&label=Profile%20views&color=7745bf&)
+![GitHub followers](https://img.shields.io/github/followers/marrypy?style=flat&logo=github&label=Followers&color=7c60d1)
+![GitHub stars](https://img.shields.io/github/stars/marrypy?style=flat&logo=github&label=Stars&color=fd7cff)
 ---
 ༶•┈┈୨♡୧┈┈•༶
 ### About Me 
@@ -8,18 +12,18 @@
 - I’m refining my **C++ skills**
 - I’m open to collaborating on **Open Source Projects!**
 - How to reach me: **marry.kassa@yale.edu**
-- Fun fact: **I love making music!**
+- Fun fact: **I love listening to underground music!**
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
 ### Tech Stack  
 **Languages**  
 
-<img src="https://skillicons.dev/icons?i=js,py,ts,cpp,rkt" />
+<img src="https://skillicons.dev/icons?i=js,py,ts,cpp,dart,swift,html,css" />
   
 **Frameworks & Tools**  
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flutter,git,linux,opencv" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flutter,git,linux,opencv,tensorflow,pytorch" />
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
@@ -38,8 +42,4 @@
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
-### Now Playing
-
-[![Now Playing Cover](https://i1.sndcdn.com/artworks-bLT0zB0eqOlNzsNF-MdokFQ-t240x240.jpg)](https://soundcloud.com/jaydesleaked/copy-me)
-
-<strong>copy me — jaydes</strong>
+### Current Fav <3
