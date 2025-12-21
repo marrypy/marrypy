@@ -12,50 +12,34 @@
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
-### Tech Stack
+### Tech Stack  
+**Languages**  
 
-**Languages**
-- Python
-- JavaScript
-- TypeScript
-- Java
-- HTML
-- CSS
-- C++
-- Swift
-- Dart
-- Racket
+<img src="https://skillicons.dev/icons?i=js,py,ts,cpp,rkt" />
+  
+**Frameworks & Tools**  
 
-**Frameworks & Tools**
-- React
-- React Native
-- Node.js
-- Next.js
-- TensorFlow
-- PyTorch
-- Flutter
-- Git
-- Linux
-- OpenCV
-- Visual Studio
-- XCode
-- PyCharm
-- Jupyter Notebook
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flutter,git,linux,opencv" />
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
-### Connect With Me
-- LinkedIn: https://linkedin.com/in/marry_kassa   
-- Website: marrykassa.com
+### Connect With Me  
+**Linkedin**  
+
+<a href="https://linkedin.com/in/marry-kassa" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+</a>  
+
+**Website**  
+
+<a href="http://marrykassa.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" />
+</a>
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
-### Now Playing on SoundCloud
-<iframe 
-  width="100%" 
-  height="120" 
-  scrolling="no" 
-  frameborder="no" 
-  allow="autoplay" 
-  src="https://w.soundcloud.com/player/?url=https://soundcloud.com/OnMxrs">
-</iframe>
+### Now Playing
+
+[![Now Playing Cover](https://i1.sndcdn.com/artworks-bLT0zB0eqOlNzsNF-MdokFQ-t240x240.jpg)](https://soundcloud.com/jaydesleaked/copy-me)
+
+<strong>copy me — jaydes</strong>
