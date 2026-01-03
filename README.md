@@ -5,35 +5,40 @@
 ![Profile views](https://komarev.com/ghpvc/?username=marrypy&label=Profile%20views&color=7745bf&)
 ![GitHub followers](https://img.shields.io/github/followers/marrypy?style=flat&logo=github&label=Followers&color=7c60d1)
 ![GitHub stars](https://img.shields.io/github/stars/marrypy?style=flat&logo=github&label=Stars&color=fd7cff)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/marrypy&query=$.public_repos&style=flat&logo=github&label=Repos&color=fd7cff)
+![Forks](https://img.shields.io/github/forks/marrypy/personal-site?style=flat&logo=github&label=Forks&color=ff9ad5)
+![Open%20Source](https://img.shields.io/badge/Open%20Source-Contributor-fb9bd3?style=flat)
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
-### About Me 
-- I’m currently working on **researching game development!**
-- I’m open to collaborating on **Open Source Projects!**
-- Reach out!: **marry.kassa@yale.edu**
-- Fun fact: **Cats and hair care are my therapy!**
+### 🔬 What I’m Working On
+- Open-weight LLM robustness & LoRA optimization
+- ML systems for large-scale data validation
+- High-performance C/C++ projects
+- Building developer tools & startups
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
 ### Tech Stack  
 **Languages**  
-
 <img src="https://skillicons.dev/icons?i=js,py,ts,cpp,c,dart,swift,html,css" />
-  
-**Frameworks & Tools**  
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flutter,git,linux,opencv,tensorflow,pytorch" />
+**Frameworks & Tools**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flutter,git,linux,opencv" />
+
+**Machine Learning**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" />
+
+**Cloud**  
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare" />
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
 ### Connect With Me  
-<a href="https://linkedin.com/in/marry-kassa" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
-</a>  
-<a href="http://marrykassa.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" />
-</a>
+💻 **Website:** [marrykassa.com](http://marrykassa.com)  
+📧 **Email:** [marry.kassa@yale.edu](mailto:marry.kassa@yale.edu)  
+🌐 **LinkedIn:** [Marry Kassa](https://www.linkedin.com/in/marry-kassa/)  
+
 
 ---
 ༶•┈┈୨♡୧┈┈•༶
