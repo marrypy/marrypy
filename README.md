@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:ffdbf7,100:3b93ff&text=Hi,%20I'm%20Marry&fontColor=ffffff&fontSize=40" width="100%">
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1jLf1-nnYlNKLnEHjBh-BnFTujMdCUs6W" width="400">
+  <img src="https://drive.google.com/uc?export=view&id=1ARdZpJ8ojmYEcBa3FturjENBv3lxVvZx" width="400">
   <h3 align="center">Current Yale University CS student from Metro Detroit</h3>
 </p>
 
