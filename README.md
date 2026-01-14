@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-<h1 align="center">Hi, I'm Marry</h1>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1jLf1-nnYlNKLnEHjBh-BnFTujMdCUs6W" width="500">
+  <h1 align="center">Hi, I'm Marry</h1>
+
 <h3 align="center">An incoming Amazon software engineer intern & current Yale University CS student from Metro Detroit</h3>
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=marrypy&label=Profile%20views&color=7745bf&)
 ![GitHub followers](https://img.shields.io/github/followers/marrypy?style=flat&logo=github&label=Followers&color=7c60d1)
@@ -40,7 +44,10 @@
 🌐 **LinkedIn:** [Marry Kassa](https://www.linkedin.com/in/marry-kassa/)  
 
 
+
 ---
 ༶•┈┈୨♡୧┈┈•༶
 ### Probably listening to..
 [![Now Playing](./copyme.png)](https://soundcloud.com/jaydesleaked/copy-me)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
